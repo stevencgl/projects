@@ -1,4 +1,4 @@
 [
     { "id": 1, "status": 200, "name": "Helios", "description": "Virtual Intelligent and Operation Learning Assistant"},
-    { "id": 2, "status": 503, "name": "Portfolio", "description": "GitHub Pages Portfolio ( stevencgl.github.io )"}
+    { "id": 2, "status": 503, "name": "Portfolio", "description": "GitHub Pages Portfolio (stevencgl.github.io)"}
 ]
